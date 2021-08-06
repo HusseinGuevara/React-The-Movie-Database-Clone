@@ -3,7 +3,7 @@ I have a created a The Movie Datbase clone using React JS and some minor Materia
 
 ## Features 
 * One can search for any movie or tv that is availble in the datebase
-* Upon finding movie i have included trailers, bloopers 
+* Upon finding movie I have included trailers, bloopers 
 * Can find similiar movies/tvshows when looking at individual movies/tvshows
 * One can also search for actors/actress
 
