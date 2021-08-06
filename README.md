@@ -11,3 +11,4 @@ I have a created a The Movie Datbase clone using React JS and some minor Materia
 Hussein Gurevara: https://github.com/HusseinGuevara
 
 ## Demo 
+<img src="https://github.com/HusseinGuevara/React-The-Movie-Database-Clone/blob/main/tmdb.gif" width="600" alt="Demo" />
