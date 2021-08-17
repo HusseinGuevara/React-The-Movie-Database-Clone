@@ -1,6 +1,9 @@
 # React-The-Movie-Database-Clone
 I have a created a The Movie Datbase clone using React JS and some minor Material UI to give the user interfacea more polished look. 
 
+## Technologies
+* React.JS 
+
 ## Features 
 * One can search for any movie or tv that is availble in the datebase
 * Upon finding movie I have included trailers, bloopers 
